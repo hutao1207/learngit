@@ -1,0 +1,14 @@
+08-15 16:45:35 acts.py[line:51] INFO     loop = 1
+08-15 16:45:35 acts.py[line:67] INFO     共有1条测试脚本 
+08-15 16:45:35 acts.py[line:68] INFO     ['D:\\workspace\\acts\\scripts\\wzcg\\wzgl_bmsq_fyy_001.py\n']
+08-15 16:45:35 acts.py[line:76] INFO     测试脚本: D:\workspace\acts\scripts\wzcg\wzgl_bmsq_fyy_001.py
+08-15 16:45:35 acts.py[line:80] INFO     第1次测试开始
+08-15 16:45:39 wzgl_bmsq_fyy_001.py[line:44] INFO     访问EMIS
+08-15 16:45:43 wzgl_bmsq_fyy_001.py[line:56] INFO     登录 EMIS 设备维修信息系统
+08-15 16:45:52 wzgl_bmsq_fyy_001.py[line:86] INFO     enter in: 物资编码管理
+08-15 16:45:53 wzgl_bmsq_fyy_001.py[line:94] INFO     enter in: 物资编码申请
+08-15 16:46:01 wzgl_bmsq_fyy_001.py[line:115] INFO     物资名称为：taf201608151646
+08-15 16:46:11 wzgl_bmsq_fyy_001.py[line:159] INFO     [CheckPoint--1]物资编码申请已提交！！
+08-15 16:46:22 wzgl_bmsq_fyy_001.py[line:204] INFO     enter in: 物资管理
+08-15 16:46:24 wzgl_bmsq_fyy_001.py[line:209] INFO     enter in: 物资估价
+08-15 16:46:27 wzgl_bmsq_fyy_001.py[line:215] INFO     对名称为taf201608151646的物资进行估价
